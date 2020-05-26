@@ -24,7 +24,7 @@ logement . impact:
       - électricité
       - chauffage autres
 logement . habitants: 
-  question: Combien de personnes vivent chez vous ?
+  question: Combien de personnes vivent chez vous blabla ?
   par défaut: 2
   unité: personnes
 
